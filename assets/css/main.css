@@ -1,0 +1,30 @@
+body{
+  background-color: #E0E6E0;
+}
+h1{
+  color: #E04A43;
+  text-align: center;
+  font-size: 4rem;
+}
+.div-optionCoders{
+  text-align: center;
+}
+.optionCoders{
+  border: #FCB425 solid 1px;
+  padding:1%;
+  margin: 1%;
+
+}
+.coders{
+  /*width: 20%;
+  height: 20%;*/
+  border-radius: 7%;
+  margin: 1% auto auto 1%;
+  padding: 0.5%;
+}
+.active {
+  visibility: visible;
+}
+.unactive {
+  display: none;
+}
